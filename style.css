@@ -354,7 +354,7 @@ mark.lazur {
     }
     .image{
         background:black;
-        max-height:20vh;
+        max-height:40vh;
         width:80%;
         filter:grayscale(0%);
         flex:1;
